@@ -32,3 +32,9 @@ let object = {
 
 object.name = 'tanmay';     // valid
 
+object = {
+    // name: 50,   // invalid
+    name: 'aditya',
+    age: 40,
+    belt: 'green'
+}
