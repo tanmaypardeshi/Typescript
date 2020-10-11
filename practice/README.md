@@ -9,6 +9,7 @@
 |[functions.ts](./functions.ts)|Basics of functions|
 |[aliases.ts](./aliases.ts)|Aliases for functions|
 |[signatures.ts](./signatures.ts)|Function signature|
-|[dom.ts](./dom.ts)|Basic rule of dom in ts|
+|[dom.ts](./dom.ts)|Basic rules when using and manipulating the DOM|
+|[classes.ts](./classes.ts)|Classes|
 
 
