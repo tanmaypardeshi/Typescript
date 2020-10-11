@@ -14,5 +14,6 @@
 |[interfaces.ts](./interfaces.ts)|Interfaces|
 |[generics.ts](./generics.ts)|Generics|
 |[enums.ts](./enums.ts)|Enums|
+|[tuples.ts](./tuples.ts)|Enums|
 
 
