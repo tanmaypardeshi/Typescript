@@ -10,6 +10,6 @@
 |[aliases.ts](./aliases.ts)|Aliases for functions|
 |[signatures.ts](./signatures.ts)|Function signature|
 |[dom.ts](./dom.ts)|Basic rules when using and manipulating the DOM|
-|[classes.ts](./classes.ts)|Classes|
+|[classes.ts](./classes.ts)|Classes and access specifiers|
 
 
