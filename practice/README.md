@@ -11,5 +11,8 @@
 |[signatures.ts](./signatures.ts)|Function signature|
 |[dom.ts](./dom.ts)|Basic rules when using and manipulating the DOM|
 |[classes.ts](./classes.ts)|Classes and access specifiers|
+|[interfaces.ts](./interfaces.ts)|Interfaces|
+|[generics.ts](./generics.ts)|Generics|
+|[enums.ts](./enums.ts)|Enums|
 
 
