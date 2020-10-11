@@ -1,15 +1,14 @@
-# Typescript
+# Typescript concepts
 
-Typescript concepts
+| Folder Name                     | Description                    |
+| :-----------------------------:  | :--------------------------------    |
+|[public](public/)|Output folder|
+|[src](src/)|Input folder|
+|[practice](practice/)|Practice programs|
+
 
 | File Name                     | Description                    |
 | :-----------------------------:  | :--------------------------------    |
-|[typebasics.ts](./typebasics.ts)|Basic types|
-|[arrays_objects.ts](./arrays_objects.ts)|Arrays and objects|
-|[explicit_types.ts](./explicit_types.ts)|Explicit types|
-|[anytype.ts](./anytype.ts)|any type|
-|[functions.ts](./functions.ts)|Basics of functions|
-|[aliases.ts](./aliases.ts)|Aliases for functions|
-|[signatures.ts](./signatures.ts)|Function signature|
+|[tsconfig.json](tsconfig.json)|tsconfig file|
 
 
